@@ -1,5 +1,7 @@
 # Digit Guesser
-
+<p align="center">
+  <img src="./app.png" />
+</p>
 Digit Guesser is a Python application that allows users to draw a number on a canvas and uses machine learning models to predict the drawn number. The application provides a graphical user interface (GUI) built with Tkinter, where users can select from different machine learning models and see the predicted number.
 
 ## Features
